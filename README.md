@@ -19,6 +19,7 @@ Don't be afraid to break things.
         '.__.'          '.__.'
          |  |            |  |
          |  |            |  |   hmm
+
 		 
 		 
 ░░░░░░█▐▓▓░████▄▄▄█▀▄▓▓▓▌█
@@ -32,3 +33,15 @@ Don't be afraid to break things.
 ▌▓▄▌▀░▀░▐▀█▄▓▓██████████▓▓▓▌█▌
 ▌▓▓▓▄▄▀▀▓▓▓▀▓▓▓▓▓▓▓▓█▓█▓█▓▓▌█▌      E
 █▐▓▓▓▓▓▓▄▄▄▓▓▓▓▓▓█▓█▓█▓█▓▓▓▐█
+
+
+
+
+Hi from Kris
+		 
+		 
+Hi from Lily
+
+
+Hi from Yeonjun
+
