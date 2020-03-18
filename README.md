@@ -7,3 +7,15 @@ I've given everyone admin permissions, so you can play around with the interface
 
 Then click around, create an Issue, check out Collaborators, etc.
 Don't be afraid to break things.
+
+       .-""""-.        .-""""-.
+      /        \      /        \
+     /_        _\    /_        _\
+    // \      / \\  // \      / \\
+    |\__\    /__/|  |\__\    /__/|
+     \    ||    /    \    ||    /
+      \        /      \        /
+       \  __  /        \  __  / 
+        '.__.'          '.__.'
+         |  |            |  |
+         |  |            |  |   hmm
