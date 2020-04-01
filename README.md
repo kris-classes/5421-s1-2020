@@ -16,3 +16,25 @@ Assignment Resources
 ## Game
 * [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
 * [PyGame](https://realpython.com/pygame-a-primer/) - Tutorial on using PyGame.
+
+
+## Assignments Descriptions:
+e.g.
+* [krisrp](https://github.com/krisrp) - Building: A ~10 word description/slogan for your program goes here.. 
+
+* [archee-byte](https://github.com/archee-byte) - Building: TBD
+* [choy30](https://github.com/choy30) - Building: TBD
+* [Dissapoint](https://github.com/Dissapoint) - Building: TBD
+* [ghazi98](https://github.com/ghazi98) - Building: TBD
+* [Ilgo6991](https://github.com/Ilgo6991) - Building: TBD
+* [J-DAP](https://github.com/J-DAP) - Building: TBD
+* [jaytwis](https://github.com/jaytwis) - Building: TBD
+* [karanina](https://github.com/karanina) - Building: TBD
+* [khadijamohamed](https://github.com/khadijamohamed) - Building: TBD
+* [lvernau](https://github.com/lvernau) - Building: TBD
+* [nuais584](https://github.com/nuais584) - Building: TBD
+* [SaharatPrangnak](https://github.com/SaharatPrangnak) - Building: TBD
+* [SheaKnox-user](https://github.com/SheaKnox-user) - Building: TBD
+* [tyhipa](https://github.com/tyhipa) - Building: TBD
+* [Yalikun](https://github.com/Yalikun) - Building: TBD
+
