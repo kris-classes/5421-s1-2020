@@ -25,7 +25,7 @@ e.g.
 * [archee-byte](https://github.com/archee-byte) - Building: TBD
 * [choy30](https://github.com/choy30) - Building: TBD
 * [Dissapoint](https://github.com/Dissapoint) - Building: TBD
-* [ghazi98](https://github.com/ghazi98) - Building: TBD
+* [ghazi98](https://github.com/ghazi98) - Building: a web based quiz
 * [Ilgo6991](https://github.com/Ilgo6991) - Building: TBD
 * [J-DAP](https://github.com/J-DAP) - Building: TBD
 * [jaytwis](https://github.com/jaytwis) - Building: TBD
