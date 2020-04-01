@@ -35,6 +35,6 @@ e.g.
 * [nuais584](https://github.com/nuais584) - Building: TBD
 * [SaharatPrangnak](https://github.com/SaharatPrangnak) - Building: TBD
 * [SheaKnox-user](https://github.com/SheaKnox-user) - Building: TBD
-* [tyhipa](https://github.com/tyhipa) - Building: TBD
+* [tyhipa](https://github.com/tyhipa) - Building: 2D Pixel art RPG using Pyxel
 * [Yalikun](https://github.com/Yalikun) - Building: TBD
 
