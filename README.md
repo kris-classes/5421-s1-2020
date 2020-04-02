@@ -26,7 +26,7 @@ e.g.
 * [choy30](https://github.com/choy30) - Building: TBD
 * [Dissapoint](https://github.com/Dissapoint) - Building: TBD
 * [ghazi98](https://github.com/ghazi98) - Building: a web based multi choice quiz
-* [Ilgo6991](https://github.com/Ilgo6991) - Building: TBD
+* [Ilgo6991](https://github.com/Ilgo6991) - Building: PyQt5 based single room chat.
 * [J-DAP](https://github.com/J-DAP) - Building: TBD
 * [jaytwis](https://github.com/jaytwis) - Building: TBD
 * [karanina](https://github.com/karanina) - Building: TBD
