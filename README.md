@@ -22,7 +22,7 @@ Assignment Resources
 e.g.
 * [krisrp](https://github.com/krisrp) - Building: A ~10 word description/slogan for your program goes here.. 
 
-* [archee-byte](https://github.com/archee-byte) - Building: TBD
+* [archee-byte](https://github.com/archee-byte) - Building: Fun Quiz Game/ GUI based. 
 * [choy30](https://github.com/choy30) - Building: TBD
 * [Dissapoint](https://github.com/Dissapoint) - Building: TBD
 * [ghazi98](https://github.com/ghazi98) - Building: a web based multi choice quiz
