@@ -32,7 +32,7 @@ e.g.
 * [karanina](https://github.com/karanina) - Building: TBD
 * [khadijamohamed](https://github.com/khadijamohamed) - Building: TBD
 * [lvernau](https://github.com/lvernau) - Building: TBD
-* [nuais584](https://github.com/nuais584) - Building: TBD
+* [nuais584](https://github.com/nuais584) - Building: 2d type tank game - Example: Shell shock, pocket tanks.
 * [SaharatPrangnak](https://github.com/SaharatPrangnak) - Building: TBD
 * [SheaKnox-user](https://github.com/SheaKnox-user) - Building: Web-based chat.
 * [tyhipa](https://github.com/tyhipa) - Building: 2D Pixel art RPG using Pyxel
