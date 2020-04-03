@@ -22,19 +22,22 @@ Assignment Resources
 e.g.
 * [krisrp](https://github.com/krisrp) - Building: A ~10 word description/slogan for your program goes here.. 
 
-* [archee-byte](https://github.com/archee-byte) - Building: Fun Quiz Game/ GUI based. 
-* [choy30](https://github.com/choy30) - Building: TBD
-* [Dissapoint](https://github.com/Dissapoint) - Building: TBD
+* [archee-byte](https://github.com/archee-byte/project-5421-archee) - Building: Fun Quiz Game/ GUI based. 
+* [choy30](https://github.com/choy30/Yjun) - Building: TBD
+* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
+* [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: TBD
+* Fedor: ? No GitHub account yet.
 * [ghazi98](https://github.com/ghazi98) - Building: a web based multi choice quiz
-* [Ilgo6991](https://github.com/Ilgo6991) - Building: PyQt5 based single room chat.
-* [J-DAP](https://github.com/J-DAP) - Building: TBD
-* [jaytwis](https://github.com/jaytwis) - Building: TBD
-* [karanina](https://github.com/karanina) - Building: TBD
-* [khadijamohamed](https://github.com/khadijamohamed) - Building: TBD
-* [lvernau](https://github.com/lvernau) - Building: TBD
-* [nuais584](https://github.com/nuais584) - Building: 2d type tank game - Example: Shell shock, pocket tanks.
-* [SaharatPrangnak](https://github.com/SaharatPrangnak) - Building: TBD
-* [SheaKnox-user](https://github.com/SheaKnox-user) - Building: Web-based chat.
-* [tyhipa](https://github.com/tyhipa) - Building: 2D Pixel art RPG using Pyxel
-* [Yalikun](https://github.com/Yalikun) - Building: TBD
+* [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
+* [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: TBD
+* [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
+* [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: TBD
+* [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: TBD
+* [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: TBD
+* [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks.
+* [SaharatPrangnak](https://github.com/SaharatPrangnak/5421-Assessment-1-Saharat) - Building: TBD
+* Seth: ? No GitHub account yet.
+* [SheaKnox-user](https://github.com/SheaKnox-user) ? No repository yet. - Building: Web-based chat.
+* [tyhipa](https://github.com/tyhipa/unitec_5421x3P) - Building: 2D Pixel art RPG using Pyxel
+* [Yalikun](https://github.com/Yalikun) ? No repository yet. - Building: TBD
 
