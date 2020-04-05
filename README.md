@@ -25,7 +25,7 @@ e.g.
 * [archee-byte](https://github.com/archee-byte/project-5421-archee) - Building: Fun Quiz Game/ GUI based. 
 * [choy30](https://github.com/choy30/Yjun) - Building: TBD
 * [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
-* [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: TBD
+* [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: A Metroidvania like game using pyxel.
 * Fedor: ? No GitHub account yet.
 * [ghazi98](https://github.com/ghazi98) - Building: a web based multi choice quiz
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
