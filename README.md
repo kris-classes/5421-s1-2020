@@ -16,6 +16,7 @@ Assignment Resources
 ## Game
 * [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
 * [PyGame](https://realpython.com/pygame-a-primer/) - Tutorial on using PyGame.
+* [Side-scrolling 2D platformer game using Pyxel](https://github.com/tyhipa/platformer-pyxel)
 
 
 ## Assignments Descriptions:
