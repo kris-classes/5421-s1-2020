@@ -8,6 +8,7 @@ Assignment Resources
 
 * [LearnPyQt5](https://www.learnpyqt.com/) - A website with resources for learning PyQt5.
 * [PyQt5 via Tech with Tim](https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj) - YouTube playlist on creating GUI apps with PyQt5.
+* [LearnPyQt5's 15 minute app examples](https://github.com/learnpyqt/15-minute-apps)
 
 ## Web
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/) - Flask is a simple to use web development library.
@@ -17,6 +18,7 @@ Assignment Resources
 * [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
 * [PyGame](https://realpython.com/pygame-a-primer/) - Tutorial on using PyGame.
 * [Side-scrolling 2D platformer game using Pyxel](https://github.com/tyhipa/platformer-pyxel)
+* [Pyxel User Examples](https://github.com/kitao/pyxel/wiki/User-Examples)
 
 
 ## Assignments Descriptions:
