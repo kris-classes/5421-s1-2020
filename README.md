@@ -19,6 +19,7 @@ Assignment Resources
 * [PyGame](https://realpython.com/pygame-a-primer/) - Tutorial on using PyGame.
 * [Side-scrolling 2D platformer game using Pyxel](https://github.com/tyhipa/platformer-pyxel)
 * [Pyxel User Examples](https://github.com/kitao/pyxel/wiki/User-Examples)
+* [Pyxel Snippets](https://github.com/kris-classes/pyxel-snippets) - Some tiny snippets of code for doing things with Pyxel.
 
 
 ## Assignments Descriptions:
