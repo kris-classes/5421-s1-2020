@@ -20,7 +20,7 @@ Assignment Resources
 * [Side-scrolling 2D platformer game using Pyxel](https://github.com/tyhipa/platformer-pyxel)
 * [Pyxel User Examples](https://github.com/kitao/pyxel/wiki/User-Examples)
 * [Pyxel Snippets](https://github.com/kris-classes/pyxel-snippets) - Some tiny snippets of code for doing things with Pyxel.
-
+* [/r/pyxel Discord](https://discord.gg/jNRYyXn) - Discord server for pyxel
 
 ## Assignments Descriptions:
 e.g.
