@@ -38,7 +38,7 @@ e.g.
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: Web - Bangle Price Calculator App
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: TBD
 * [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: TBD
-* [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks.
+* [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks. - Pyxel
 * [SaharatPrangnak](https://github.com/SaharatPrangnak/5421-Assessment-1-Saharat) - Building: Web chat
 * [SheaKnox-user](https://github.com/SheaKnox-user/Project-Plan) - Building: Web-based chat.
 * [tyhipa](https://github.com/tyhipa/unitec_5421x3P) - Building: 2D Pixel art RPG using Pyxel
