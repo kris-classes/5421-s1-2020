@@ -36,7 +36,7 @@ e.g.
 * [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
 * [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: Web - Bangle Price Calculator App
-* [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: GUI - Quiz application
+* [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: GUI(pyQt5) - Quiz application
 * [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: PyQty Accounting Gui
 * [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks. - Pyxel
 * [SaharatPrangnak](https://github.com/SaharatPrangnak/5421-Assessment-1-Saharat) - Building: Web chat
