@@ -33,7 +33,7 @@ e.g.
 * [Fedor](https://github.com/fshadrin/5421Project/) : Army themed 2d game using pygame.
 * [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a web based multi choice quiz
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
-* [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: TBD
+* [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
 * [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: TBD
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: TBD
