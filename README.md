@@ -31,13 +31,13 @@ e.g.
 * [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
 * [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: A Metroidvania like game using pyxel.
 * [Fedor](https://github.com/fshadrin/5421Project/) : Army themed 2d game using pygame.
-* [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a instagram like web app
+* [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a web based multi choice quiz
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
 * [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
 * [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: TBD
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: TBD
-* [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: TBD
+* [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: PyQty based accounting GUI
 * [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks.
 * [SaharatPrangnak](https://github.com/SaharatPrangnak/5421-Assessment-1-Saharat) - Building: TBD
 * [SheaKnox-user](https://github.com/SheaKnox-user/Project-Plan) - Building: Web-based chat.
