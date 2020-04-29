@@ -34,7 +34,7 @@ e.g.
 * [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a instagram like web app
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
 * [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
-* [jaytwis](https://github.com/jaytwis/JD5421) - Building: Game - Modern Space Invader on Pyxel or Pygame
+* [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: Web - Bangle Price Calculator App
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: TBD
 * [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: PyQty Accounting Gui
@@ -42,5 +42,5 @@ e.g.
 * [SaharatPrangnak](https://github.com/SaharatPrangnak/5421-Assessment-1-Saharat) - Building: Web chat
 * [SheaKnox-user](https://github.com/SheaKnox-user/Project-Plan) - Building: Web-based chat.
 * [tyhipa](https://github.com/tyhipa/unitec_5421x3P) - Building: 2D Pixel art RPG using Pyxel
-* [Yalikun](https://github.com/Yalikun/Assignment5421) - Building: TBD
+* [Yalikun](https://github.com/Yalikun/Assignment5421) - Building: Movie Rental Inventory Systemm
 
