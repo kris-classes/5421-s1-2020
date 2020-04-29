@@ -27,7 +27,7 @@ e.g.
 * [krisrp](https://github.com/krisrp) - Building: A ~10 word description/slogan for your program goes here.. 
 
 * [archee-byte](https://github.com/archee-byte/project-5421-archee) - Building: Fun Quiz Game/ GUI based. 
-* [choy30](https://github.com/choy30/Yjun) - Building: TBD
+* [choy30](https://github.com/choy30/Yjun) - Building: Simple AR & AP system
 * [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
 * [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: A Metroidvania like game using pyxel.
 * [Fedor](https://github.com/fshadrin/5421Project/) : Army themed 2d game using pygame.
