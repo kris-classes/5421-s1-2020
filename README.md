@@ -34,7 +34,7 @@ e.g.
 * [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a instagram like web app
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
 * [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
-* [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
+* [jaytwis](https://github.com/jaytwis/JD5421) - Building: Game - Space Invader on Pygame or Pyxel.
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: Web - Bangle Price Calculator App
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: GUI(pyQt5) - Quiz application
 * [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: PyQty Accounting Gui
