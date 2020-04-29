@@ -31,7 +31,7 @@ e.g.
 * [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
 * [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: A Metroidvania like game using pyxel.
 * [Fedor](https://github.com/fshadrin/5421Project/) : Army themed 2d game using pygame.
-* [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a web based multi choice quiz
+* [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a instagram like web app
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
 * [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
 * [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
