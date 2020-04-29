@@ -28,7 +28,7 @@ e.g.
 
 * [archee-byte](https://github.com/archee-byte/project-5421-archee) - Building: Fun Quiz Game/ GUI based. 
 * [choy30](https://github.com/choy30/Yjun) - Building: Simple AR & AP system
-* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
+* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: 2D Football game using pyxel.
 * [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: A Metroidvania like game using pyxel.
 * [Fedor](https://github.com/fshadrin/5421Project/) : Army themed 2d game using pygame.
 * [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a instagram like web app
