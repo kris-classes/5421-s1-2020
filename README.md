@@ -11,7 +11,7 @@
 * [SQLAlchemy Expression Language Tutorial](https://docs.sqlalchemy.org/en/13/core/tutorial.html)
 * [SQLAlchemy ORM Tutorial](https://docs.sqlalchemy.org/en/13/orm/tutorial.html)
 * [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
-* [Alembic](https://alembic.sqlalchemy.org/en/latest/
+* [Alembic DB Migrations](https://alembic.sqlalchemy.org/en/latest/)
 
 Assignment Resources
 ======================
