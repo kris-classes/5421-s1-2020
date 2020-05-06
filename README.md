@@ -1,5 +1,16 @@
 # 5421 - Programming Principles and Practice
 
+## Week 9 - Web & Databases
+
+### Databases
+
+* [SQLite Browser](https://sqlitebrowser.org/)
+* [SQLite](https://www.sqlite.org/index.html)
+* [SQLite Tutorial Sample Database](https://www.sqlitetutorial.net/sqlite-sample-database/)
+* [Official sqlite3 Python module](https://docs.python.org/3.8/library/sqlite3.html)
+* [SQLAlchemy Expression Language Tutorial](https://docs.sqlalchemy.org/en/13/core/tutorial.html)
+* [SQLAlchemy ORM Tutorial](https://docs.sqlalchemy.org/en/13/orm/tutorial.html)
+* [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 
 Assignment Resources
 ======================
