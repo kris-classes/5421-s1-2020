@@ -49,7 +49,7 @@ e.g.
 * [jaytwis](https://github.com/jaytwis/JD5421) - Building: Game - Space Invader on Pygame or Pyxel.
 * [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: Web - Bangle Price Calculator App
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: GUI(pyQt5) - Quiz application
-* [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: PyQty Accounting Gui
+* [lvernau](https://github.com/lvernau/Assignment1) - Building: PyQty Accounting Gui
 * [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks. - Pyxel
 * [SaharatPrangnak](https://github.com/SaharatPrangnak/5421-Assessment-1-Saharat) - Building: Web chat
 * [SheaKnox-user](https://github.com/SheaKnox-user/Project-Plan) - Building: Web-based chat.
