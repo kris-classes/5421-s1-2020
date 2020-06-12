@@ -31,7 +31,7 @@
 * [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 * [Alembic DB Migrations](https://alembic.sqlalchemy.org/en/latest/)
 
-## Week 10 - Logging, Threading, Multiprocessing, Datatime, Callbacks, Lambdas, Functional Programming
+## Week 10 - Logging, Threading, Multiprocessing, Datetime, Callbacks, Lambdas, Functional Programming
 
 ## Week 11 - Regular Expressions, Iterators, Generators, Context Managers
 
