@@ -1,5 +1,23 @@
 # 5421 - Programming Principles and Practice
 
+## Week 1 - Preliminaries & Revision
+
+[Beginners Python Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+
+## Week 2 - ADTs, Programming Paradigms & OOP
+
+## Week 3 - OOP & Modules
+
+## Week 4 - Exceptions, Networking, IDEs, Debugging & VCS
+
+## Week 5 - No class due to COVID-19
+
+## Week 6 - Conventions (PEP8, Linting), Virtual Environments, Exceptions, More IDEs & Debugging, HTTP & APIs, Serialization, GUIs
+
+## Week 7 - More Debugging, Encapsulation, Testing, Function Arguments, More Inheritance, Data Structures
+
+## Week 8 - GameDev & GUI
+
 ## Week 9 - Web & Databases
 
 ### Databases
@@ -12,6 +30,15 @@
 * [SQLAlchemy ORM Tutorial](https://docs.sqlalchemy.org/en/13/orm/tutorial.html)
 * [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 * [Alembic DB Migrations](https://alembic.sqlalchemy.org/en/latest/)
+
+## Week 10 - Logging, Threading, Multiprocessing, Datatime, Callbacks, Lambdas, Functional Programming
+
+## Week 11 - Regular Expressions, Iterators, Generators, Context Managers
+
+## Week 12 - Coroutines, Async/Await, Assignment Help & Exam Revision
+
+## Week 13 - Assignment Presentation & More Exam Revision
+
 
 Assignment Resources
 ======================
